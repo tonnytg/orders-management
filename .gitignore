@@ -1,0 +1,15 @@
+*.log
+~.*
+*.bak
+*.old
+*.tmp
+*.swp
+*.swo
+
+DS_Store
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+
+*.db
